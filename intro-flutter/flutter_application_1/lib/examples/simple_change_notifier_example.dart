@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/examples/counter_controller.dart';
+import 'package:flutter_application_1/examples/user_controller.dart';
 
 /// Classe modelo usando ChangeNotifier para gerenciar estado complexo
 /// ChangeNotifier permite notificar múltiplos listeners sobre mudanças
