@@ -4,4 +4,3 @@ import 'package:flutter_application_1/material_app.dart';
 void main() {
   runApp(const MainApp());
 }
-

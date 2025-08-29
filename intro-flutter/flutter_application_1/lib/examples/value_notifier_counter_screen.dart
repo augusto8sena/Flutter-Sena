@@ -42,7 +42,7 @@ class _CounterScreenValueNotifierState
       appBar: AppBar(
         title: const Text('Contador com ValueNotifier'),
         centerTitle: true,
-        backgroundColor: Colors.purple,
+        backgroundColor: const Color.fromARGB(255, 185, 6, 217),
       ),
       body: Center(
         child: Column(
